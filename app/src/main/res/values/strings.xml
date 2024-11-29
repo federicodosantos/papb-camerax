@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="desc_note_logo">Microsoft OneNote logo</string>
+    <string name="microsoft_one_note">Microsoft OneNote</string>
+    <string name="login_instruction">Log in to your account to \naccess the app</string>
+    <string name="web_client_id">437334233688-9qpq0lomqlqnaddlg508srkf10e6uuvv.apps.googleusercontent.com</string>
+</resources>
